@@ -4,6 +4,8 @@ WMTlabtest
 1. git init
 
 2. git add File.type
+ 
+ 
  git add .
  git add
 
